@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm James Watson
 
-<!--
-**jamesmwatson/jamesmwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance translator and language educator with 8+ years’ experience producing and QA-checking technical documentation (mechanical engineering, automotive, IT).  
+I'm now applying this precision and structured-data mindset to AI content and data annotation.
 
-Here are some ideas to get you started:
+### 💡 Focus areas
+- Translation & linguistic QA workflows (regex, terminology, guideline adherence)
+- Structured data formats (CSV, JSON, Markdown, HTML)
+- Documentation clarity and accessibility
+- Human-in-the-loop AI and linguistic data quality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills
+**Languages:** English (native), German (C1)  
+**Tools:** SDL Trados Studio, regex QA, Sunsama, Markdown, Docker  
+**Technical:** Windows & basic Linux/CLI, structured data handling
+
+### 📂 Featured projects
+- [OHF Application Portfolio](https://github.com/jamesmwatson/ohf-sample-portfolio)
+- [Regex QA Toolkit](https://github.com/jamesmwatson/regex-qa-toolkit)
+
+### 🎧 Personal projects
+- [Taming YouTube Watch Later](https://github.com/jamesmwatson/tamingytwl)
+
+---
+
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/james-watson-51764637/) · jamesmaitlandwatson@gmail.com  
+🌍 Based in The Hague, Netherlands
