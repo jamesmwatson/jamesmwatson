@@ -15,7 +15,6 @@ I'm now applying this precision and structured-data mindset to AI content and da
 **Technical:** Windows & basic Linux/CLI, structured data handling
 
 ### 📂 Featured projects
-- [OHF Application Portfolio](https://github.com/jamesmwatson/ohf-sample-portfolio)
 - [Regex QA Toolkit](https://github.com/jamesmwatson/regex-qa-toolkit)
 
 ### 🎧 Personal projects
