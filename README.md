@@ -22,5 +22,5 @@ I'm now applying this precision and structured-data mindset to AI content and da
 
 ---
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/james-watson-51764637/) · jamesmaitlandwatson@gmail.com  
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/james-watson-51764637/) · james@quietlytechnical.com  
 🌍 Based in The Hague, Netherlands
